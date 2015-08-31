@@ -1,0 +1,12 @@
+name = "ACE3 chinese";
+picture = "logo_ace3_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/bux578/ACE3_cn";
+description = "ACE3 chinese for ACE3 3.2.1";
+logo = "logo_ace3_ca.paa";
+logoOver = "logo_ace3_ca.paa";
+tooltip = "ACE3 chinese";
+tooltipOwned = "ACE3 Owned";
+overview = "Translate: ACE3 chinese translation";
+author = "MSUOC (?)";
+overviewPicture = "logo_ace3_ca.paa";

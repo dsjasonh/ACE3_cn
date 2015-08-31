@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACE">
+    <Package name="Common">
+        <Key ID="STR_ACE_Common_ACETeam">
+            <English>ACE 团队</English>
+        </Key>
+        <Key ID="STR_ACE_Common_Save">
+            <English>节省</English>
+        </Key>
+        <Key ID="STR_ACE_Common_Cancel">
+            <English>取消</English>
+        </Key>
+    </Package>
+    <Package name="Respawn">
+        <Key ID="STR_ACE_Respawn_Deploy">
+            <English>部署在5秒 ...</English>
+        </Key>
+    </Package>
+</Project>
